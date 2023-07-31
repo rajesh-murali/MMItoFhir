@@ -1,0 +1,372 @@
+CATALOGID;CODE;UPPERCODE;UPPERRELATION;SHORTNAME;NAME;DESCRIPTION;MAP_wird_es_verwendet;MAP_EDQM-Code;MAP_EDQM-Name_DE;MAP_EDQM-Name_EN;MAP_welcheEDQM_Liste;MAP_Comment
+104;644;;;644;Öl zum Einnehmen;;;;;;;
+104;233;;;233;Öl zur Anw. auf der Haut;Anwendung auf der Haut;;;;;;
+104;251;;;251;Applikator;;keine Verwendung in ITEM;;;;;
+104;58;;;58;Arzneitee;Zum Einnehmen;;10122000;Arzneitee;Herbal tea;Pharmaceutical Dose Form;
+104;933;;;933;Arzneitee im Beutel;Zum Einnehmen;;50029700;Arzneitee im Beutel;Herbal tea in bag;Combined Term;
+104;531;;;531;Augen- und Nasensalbe;;;;;;;so nicht gefunden
+104;444;;;444;Augen-/Ohrentropfen, Lsg.;;;50018000;Augen-/Ohrentropfen, Lösung;Ear/eye drops, solution;Pharmaceutical Dose Form;
+104;4;;;4;Augenöl;Anwendung am Auge;keine Verwendung in ITEM;;;;;
+104;263;;;263;Augenbad;Anwendung am Auge;;10610000;Augenbad;Eye lotion;Pharmaceutical Dose Form;
+104;3;;;3;Augencreme;Anwendung am Auge;;10601000;Augencreme;Eye cream;Pharmaceutical Dose Form;
+104;109;;;109;Augengel;Anwendung am Auge;;10602000;Augengel;Eye gel;Pharmaceutical Dose Form;
+104;515;;;515;Augengel im Einzeldosisbeh.;Anwendung am Auge;;50023300;Augengel im Einzeldosisbehältnis;Eye gel in single-dose container;Combined Term;
+104;504;;;Augenlidschaum;Augenlidschaum;Anwendung am Auge;keine Verwendung in ITEM;;;;;
+104;502;;;Augenlidspray;Augenlidspray;Anwendung am Auge;;;;;;
+104;497;;;497;Augenlidspray, liposomal;Anwendung am Auge;keine Verwendung in ITEM;;;;;
+104;6;;;6;Augensalbe;Anwendung am Auge;;10603000;Augensalbe;Eye ointment;Pharmaceutical Dose Form;
+104;889;;;889;Augentropfen, Emulsion;Anwendung am Auge;;10604500;Augentropfen, Emulsion;Eye drops, emulsion;Pharmaceutical Dose Form;
+104;5;;;5;Augentropfen, Lösung;Anwendung am Auge;;10604000;Augentropfen, Lösung;Eye drops, solution;Pharmaceutical Dose Form;
+104;272;;;272;Augentropfen, Lsg. im Einzeldosisbeh.;Anwendung am Auge;;50023000;Augentropfen, Lösung im Einzeldosisbehältnis;Eye drops, solution in single-dose container;Combined Term;
+104;391;;;391;Augentropfensusp.;Anwendung am Auge;;10605000;Augentropfensuspension;Eye drops, suspension;Pharmaceutical Dose Form;
+104;7;;;7;Badeöl;Anwendung auf der Haut;keine Verwendung in ITEM;;;;;
+104;208;;;208;Badezusatz;Anwendung auf der Haut;;10501000;Badezusatz;Bath additive;Pharmaceutical Dose Form;
+104;209;;;209;Balsam;Anwendung auf der Haut;;;;;;
+104;453;;;453;Bandage;;;;;;;
+104;356;;;356;Beutel m. Susp. z. Einnehmen;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;286;;;286;Binde;;;;;;;
+104;69;;;69;Blasenspüllsg.;Anwendung in der Harnröhre;;11502000;Blasenspüllösung;Bladder irrigation;Pharmaceutical Dose Form;
+104;210;1;;210;Bonbons;Zum Einnehmen;;;;;;
+104;445;;;445;Brausegran.;Zum Einnehmen;;10205000;Brausegranulat;Effervescent granules;Pharmaceutical Dose Form;
+104;8;1;;8;Brausetbl.;Zum Einnehmen;;10222000;Brausetablette;Effervescent tablet;Pharmaceutical Dose Form;
+104;202;;;202;Btl.;;;30054000;Beutel;Sachet;Packaging;
+104;370;;;370;Btl. m. Pulv. z. Herst. e. Lsg. z. Einnehmen;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;366;;;366;Btl. mit Gran. z. Herst. e. Lsg. z. Einnehmen;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;501;;;501;Btl. mit Pellets z.  Einnehmen;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;380;;;380;Buccalfilm;;;10314011;Buccalfilm;Buccal film;Pharmaceutical Dose Form;
+104;35;1;;35;Buccaltbl.;Buccale Anwendung;;10320000;Buccaltablette;Buccal tablet;Pharmaceutical Dose Form;
+104;486;1;;486;Buccaltbl., mucoadhäsive;Buccale Anwendung;;10319000;mucoadhäsive Buccaltablette;Muco-adhesive buccal tablet;Pharmaceutical Dose Form;
+104;10;;;10;Creme;Anwendung  auf der Haut;;10502000;Creme;Cream;Pharmaceutical Dose Form;
+104;201;;;201;dental;parenteral;;;;;;
+104;600;;;Dentalemulsion;Dentalemulsion;Dentale Anwendung;;10408000;Dentalemulsion;Dental emulsion;Pharmaceutical Dose Form;
+104;602;;;Dentallösung;Dentallösung;Dentale Anwendung;;10406000;Dentallösung;Dental solution;Pharmaceutical Dose Form;
+104;536;;;536;Dentalstift;Dentale Anwendung;;10403000;Dentalstift;Dental stick;Pharmaceutical Dose Form;
+104;604;;;Dentalsuspension;Dentalsuspension;;;10407000;Dentalsuspension;Dental suspension;Pharmaceutical Dose Form;
+104;614;;;Depot-Injektionslösung;Depot-Injektionslösung;;;13076000;Depot-Injektionslösung;Prolonged-release solution for injection;Pharmaceutical Dose Form;
+104;616;;;Depot-Injektionssuspension;Depot-Injektionssuspension;;;11208500;Depot-Injektionssuspension;Prolonged-release suspension for injection;Pharmaceutical Dose Form;
+104;211;;;211;Dil.;Zum Einnehmen;;;;;;"wäre Dilution (z.B. Pflanzenextrakt?) - wird noch abgeklaert. Evtl. mit Basic Dose Form ""Solution"" (oder evtl. ""Liquid"")?"
+104;68;;;68;Dos.-Aerosol;Zur Inhalation;;11107000;Druckgasinhalation, Suspension;Pressurised inhalation, suspension;Pharmaceutical Dose Form;nicht ganz klar. Diskussion, ob hier der gleichen EDQM-Ausdruck verwendet werden kann wie bei MMI Code 542: Druckgasinh., Susp.: Entscheidung ja.
+104;212;;;212;Dos.-Spray, nasal;Nasale Anwendung;;18080;Nasenspray;Nasal spray;Patient Friendly;unklar
+104;13;1;;13;Drg.;Zum Einnehmen;;10220000;überzogene Tablette;Coated tablet;Pharmaceutical Dose Form;evtl. 100000073380-überzogene Tablette-Coated tablet
+104;258;1;;258;Drg., magensaftres.;Zum Einnehmen;;;;;;use discouraged: gastro-resistant coated tablet
+104;955;;;955;Druckgasinh., Emuls.;;keine Verwendung in ITEM;;;;;
+104;745;;;745;Druckgasinh., Lsg.;;;11106000;Druckgasinhalation, Lösung;Pressurised inhalation, solution;Pharmaceutical Dose Form;
+104;542;;;542;Druckgasinh., Susp.;;;11107000;Druckgasinhalation, Suspension;Pressurised inhalation, suspension;Pharmaceutical Dose Form;
+104;213;;;213;Durchstechfl.;parenteral;;;;;;
+104;480;;;480;Duschcreme;Anwendung auf der Haut;;;;;;
+104;316;;;316;Duschgel;Anwendung  auf der Haut;;;;;;
+104;214;;;214;Einreib.;Anwendung  auf der Haut;;;;;;
+104;300;;;300;Emuls. zum Einnehmen;Zum Einnehmen;;10107000;Emulsion zum Einnehmen;Oral emulsion;Pharmaceutical Dose Form;
+104;216;;;216;Emuls. zur Anw. auf d. Haut;Anwendung  auf der Haut;;10516000;Emulsion zur Anwendung auf der Haut;Cutaneous emulsion;Pharmaceutical Dose Form;
+104;412;;;412;Emuls. zur Inf.;Zur Infusion;;11211000;Emulsion zur Infusion;Emulsion for infusion;Pharmaceutical Dose Form;
+104;411;;;411;Emuls. zur Inj.;parenteral;;11203000;Emulsion zur Injektion;Emulsion for injection;Pharmaceutical Dose Form;
+104;999;;;999;Emuls. zur Inj./Inf.;parenteral;;50021000;Emulsion zur Injektion/Infusion;Emulsion for injection/infusion;Pharmaceutical Dose Form;
+104;67;;;67;Fertigspr.;;;30051000;Fertigspritze;Pre-filled syringe;Packaging;
+104;14;1;;14;Filmtbl.;Zum Einnehmen;;10221000;Filmtablette;Film-coated tablet;Pharmaceutical Dose Form;
+104;347;1;;347;Filmtbl., magensaftres.;Zum Einnehmen;;10225000;Magensaftresistente Tablette;Gastro-resistent tablet;Pharmaceutical Dose Form;EDQM rejected: Film coated gastro-resistant tablet, Replacement Coded ConceptsPDF-10225000: Gastro-resistant tablet (gleiches Ergebnis nach interner Abklaerung)
+104;282;;;500;Flüssigk. zum Einnehmen;Zum Einnehmen;;10104000;Flüssigkeit zum Einnehmen;Oral liquid;Pharmaceutical Dose Form;doppelt
+104;474;;;474;Flüssigk. zur Anw. auf der Haut;Anwendung  auf der Haut;;10512000;Flüssigkeit zur Anwendung auf der Haut;Cutaneous liquid;Pharmaceutical Dose Form;
+104;464;;;464;Flüssigk. zur Herst. e. Dampfs zur Inh.;Zur Inhalation;;11117000;Flüssigkeit zur Herstellung eines Dampfs zur Inhalation;Inhalation vapour, liquid;Pharmaceutical Dose Form;
+104;17;;;17;Flüssigkeit zum Einnehmen;;;10104000;Flüssigkeit zum Einnehmen;Oral liquid;Pharmaceutical Dose Form;doppelt
+104;16;;;16;Flasche;;;30008000;Flasche;Bottle;Packaging;
+104;298;;;Gas und Lösungsmittel;Gas u. Lösungsm. zur Herst. e. Inj.-/Inf.-Dispersion;;;;;;;
+104;120;;;120;Gaze, imprägniert;;;;;;;evtl.imprägnierter Verband?
+104;18;;;18;Gel;Anwendung  auf der Haut;;10503000;Gel;Gel;Pharmaceutical Dose Form;
+104;304;;;304;Gel zum Einnehmen;Zum Einnehmen;;10108000;Gel zum Einnehmen;Oral gel;Pharmaceutical Dose Form;
+104;86;;;86;Gel zur Anw. am Zahnfleisch;Dentale Anwendung;;10315000;Gel zur Anwendung am Zahnfleisch;Gingival gel;Pharmaceutical Dose Form;
+104;379;;;379;Gel zur Anw. in der Harnröhre;Urethrale Anwendung;;11504000;Gel zur Anwendung in der Harnröhre;Urethral gel;Pharmaceutical Dose Form;
+104;267;;;267;Gel zur Anw. in der Mundhöhle;Anwendung in der Mundhöhle;;10313000;Gel zur Anwendung in der Mundhöhle;Oromucosal gel;Pharmaceutical Dose Form;
+104;487;;;487;Gel zur Anwendung in der Harnröhre;Urethrale Anwendung;keine Verwendung in ITEM;;;;;
+104;489;;;489;Gel zur intestinalen Anw.;Intestinale Anwendung;;12120000;Gel zur intestinalen Anwendung;Intestinal gel;Pharmaceutical Dose Form;
+104;428;;;428;Gewebekleber;;;12115000;Gewebekleber;Sealant;Pharmaceutical Dose Form;
+104;124;;;124;Glob.;Zum Einnehmen;;10231000;Streukügelchen;Pillules;Pharmaceutical Dose Form;
+104;700;;;700;Gran.;;keine Verwendung in ITEM;;;;;
+104;20;;;20;Gran. zum Einnehmen;Zum Einnehmen;;10204000;Granulat;Granules;Pharmaceutical Dose Form;
+104;995;;;995;Gran. zur Herst. e. Injektionssusp.;;keine Verwendung in ITEM;;;;;
+104;365;;;365;Gran. zur Herst. e. Lsg. zum Einnehmen;Zum Einnehmen;;10112000;Granulat zur Herstellung einer Lösung zum Einnehmen;Granules for oral solution;Pharmaceutical Dose Form;
+104;403;;;403;Gran. zur Herst. e. Susp. zum Einnehmen;Zum Einnehmen;;10113000;Granulat zur Herstellung einer Suspension zum Einnehmen;Granules for oral suspension;Pharmaceutical Dose Form;
+104;789;;;789;Gran. zur Herst. e. Susp. zum Einnehmen/Rektalsusp.;;;50029150;Granulat zur Herstellung einer Suspension zum Einnehmen/Rektalsuspension;Granules for oral/rectal suspension;Pharmaceutical Dose Form;
+104;503;;;503;Gran. zur Wundheilung;Anwendung  auf der Haut;;;;;;
+104;832;;;832;Gran., überzogenes;;;13046000;überzogenes Granulat;Coated granules;Pharmaceutical Dose Form;
+104;414;;;414;Gran., magensaftres.;Zum Einnehmen;;10206000;magensaftresistentes Granulat;Gastro-resistant granules;Pharmaceutical Dose Form;
+104;588;;;Gran., magensaftres. zur Herst. e. Susp. zum Einn.;Gran., magensaftres. zur Herst. e. Susp. zum Einnehmen;Zum Einnehmen;;50026000;magensaftresistentes Granulat zur Herstellung einer Suspension zum Einnehmen;Gastro-resistant granules for oral suspension;Pharmaceutical Dose Form;
+104;449;;;449;Granulat z. Herst. v. MR-Kontrastmittel;;keine Verwendung in ITEM;;;;;
+104;112;;;112;Gurgellösung;Zur Anwendung im Mund- und Rachenraum;;10301000;Gurgellösung;Gargle;Pharmaceutical Dose Form;
+104;319;;;Hämodialyse/Hämofiltrationslösung;Hämodialyse/Hämofiltrationslösung;;;50057000;Hämodialyselösung/Hämofiltrationslösung;Solution for haemodialysis/haemofiltration;Pharmaceutical Dose Form;
+104;328;;;Hämofiltrationslösung;Hämofiltrationslösung;;;11402000;Hämofiltrationslösung;Solution for haemofiltration;Pharmaceutical Dose Form;
+104;313;2;;313;Hartkapsel;Zum Einnehmen;;10210000;Hartkapsel;Capsule, hard;Pharmaceutical Dose Form;
+104;767;;;HPI;Hartkapsel mit Pulver zur Inh.;Zur Inhalation;;11110000;Hartkapsel mit Pulver zur Inhalation;Inhalation powder, hard capsule;Pharmaceutical Dose Form;
+104;493;2;;493;Hartkapsel mit veränd. Wirkstofffreisetzung;Zum Einnehmen;;10217000;Hartkapsel mit veränderter Wirkstofffreisetzung;Modified-release capsule, hard;Pharmaceutical Dose Form;
+104;977;;;977;Hartkapsel zur vag. Anw.;Vaginale Anwendung;keine Verwendung in ITEM;;;;;
+104;461;2;;461;Hartkapsel, magensaftres.;Zum Einnehmen;;10212000;magensaftresistente Hartkapsel;Gastro-resistant capsule, hard;Pharmaceutical Dose Form;
+104;473;2;;473;Hartkapsel, retardiert;Zum Einnehmen;;10215000;Hartkapsel, retardiert;Prolonged-release capsule, hard;Pharmaceutical Dose Form;
+104;130;;;130;Implantat;;;11301000;Implantat;Implant;Pharmaceutical Dose Form;
+104;441;;;441;Implantat, intraocular;Intraokulare Anwendung;;;;;;
+104;846;;;846;Implantat, intravitreal;;;50033500;intravitreales Implantat im Applikator;Intravitreal implant in applicator;Combined Term;Neu, 21.1.2021
+104;440;;;440;Implantat, subcutan;Subkutane Anwendung;;;;;;
+104;21;;;21;Inf.-Amp.;parenteral;;30001000;Ampulle;Ampoule;Packaging;
+104;22;;;22;Inf.-Btl.;parenteral;;;;;;
+104;24;;;24;Inf.-Fl.;parenteral;keine Verwendung in ITEM;30008000;Flasche;Bottle;Packaging;
+104;224;;;224;Inf.-Susp.;;keine Verwendung in ITEM;;;;;
+104;299;;;299;Infusionsdispersion;;;50017500;Infusionsdispersion;Dispersion for infusion;Pharmaceutical Dose Form;
+104;222;;;222;Infusionslsg.;Zur Infusion;;11210000;Infusionslösung;Solution for infusion;Pharmaceutical Dose Form;
+104;276;;;276;Inhalationsamp.;Zur Inhalation;keine Verwendung in ITEM;;;;;
+104;438;;;438;Inhalationsgas;Zur Inhalation;;11118000;Inhalationsgas;Inhalation gas;Pharmaceutical Dose Form;noncurrent
+104;281;;;281;Inhalationshilfe;;;;;;;Medizinprodukt/ Hilfsmittel
+104;257;2;;257;Inhalationskaps.;Zur Inhalation;keine Verwendung in ITEM;;;;;
+104;584;;;Inj.-Dispersion;Inj.-Dispersion;;;50077000;Injektionsdispersion;Dispersion for injection;Pharmaceutical Dose Form;
+104;27;;;27;Inj.-Fl.;parenteral;keine Verwendung in ITEM;;;;;
+104;537;;;537;Inj.-Lsg. und Konz. zur Herst. e. Inf.-Lsg.;parenteral;;50060000;Injektions-/Infusionslösung;Solution for injection/infusion;Pharmaceutical Dose Form;21.1.2021  EDMQ: rejcted: Solution for injection/concentrate for solution for infusion --Term rejected. It is not necessary to specify 'concentrate' in the term where a product can be administered safely without dilution. ---Replacement Coded ConceptsPDF-50060000: Solution for injection/infusion
+104;241;;;241;Inj.-Susp.;parenteral;;11202000;Injektionssuspension;Suspension for injection;Pharmaceutical Dose Form;
+104;518;;;518;Injektions-/Infusionslsg.;parenteral;;50060000;Injektions-/Infusionslösung;Solution for injection/infusion;Pharmaceutical Dose Form;
+104;220;;;220;Injektionslsg.;parenteral;;11201000;Injektionslösung;Solution for injection;Pharmaceutical Dose Form;
+104;140;;;140;Intrauterinpessar;;;;;;;Medizinprodukt, Bsp. Nova T
+104;510;;;510;Iontophoretisches transdermales System;Transdermale Anwendung;keine Verwendung in ITEM;;;;;
+104;264;;;264;Kanülen;;;;;;;Medizinprodukt
+104;2;;;2;Kaps.;Zum Einnehmen;;12100;Kapsel;Capsule;Patient Friendly;Erstmal so verwenden. Kommentar Lukas Goetz: relativ unspezifisch, da es Weich- und Hartgelatine-Kapseln gibt mit unterschiedlicher Herstellungs- und Wirkweise, die Kapseln mit Pflanzenextrakten sind aber meistens Hartgelatine-Kapseln
+104;38;2;;38;Kaps., magensaftresistent;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;587;;;Kardioplege Lösung/Organkonservierungslösung;Kardioplege Lösung / Organkonservierungslösung;;;13107000;Kardioplege Lösung/Organkonservierungslösung;Solution for cardioplegia/organ preservation;Pharmaceutical Dose Form;
+104;30;1;;30;Kaudrg.;Zum Einnehmen;;10228000;Kautablette;Chewable tablet;Pharmaceutical Dose Form;nicht ganz klar, erstmal so verwenden. Gibt es einen Unterschied zu Kautablette (siehe Spalte 3 Nr. 32)? Antwort Lukas Goetz: genau genommen schon bzgl. der Ummantelung, ein Dragee hat klassischerweise einen Zuckerueberzug
+104;72;;;72;Kaugummi, wirkstoffhaltig;;;10229000;wirkstoffhaltiges Kaugummi;Medicated chewing-gum;Pharmaceutical Dose Form;
+104;32;1;;32;Kautbl.;Zum Einnehmen;;10228000;Kautablette;Chewable tablet;Pharmaceutical Dose Form;
+104;582;;;Kautbl./Tbl. zur Herst. einer Susp. zum Einnehmen;Kautbl./Tbl. zur Herst. einer Susp. zum Einnehmen;;;50001000;Kautablette/Tablette zur Herstellung einer Suspension zum Einnehmen;Chewable/dispersible tablet;Pharmaceutical Dose Form;
+104;280;;;280;Kerne;Zum Einnehmen;;;;;;Hier handelt es sich um Leinsamen, Mapping wohl nicht erforderlich
+104;516;;;516;Kette zur Implant.;;;11303000;Kette zur Implantation;Implantation chain;Pharmaceutical Dose Form;
+104;246;;;Kit für ein radioaktives Arzneimittel;Kit für ein radioaktives Arzneimittel;;;12107000;Kit für ein radioaktives Arzneimittel;Kit for radiopharmaceutical preparation;Pharmaceutical Dose Form;
+104;260;;;260;Klistier;;;20050;Klistier;Enema;Patient Friendly;
+104;33;;;33;Knochenzement;;;;;;;
+104;249;;;249;Kombi-Pack.;;;;;;;
+104;207;;;207;Kompresse;;;;;;;
+104;226;;;226;Kontaktlinsen;;keine Verwendung in ITEM;;;;;
+104;386;;;386;Konz. und Lsgm. z. Herst. e. Inf.-Lsg.;parenteral;keine Verwendung in ITEM;;;;;
+104;385;;;385;Konz. zur Herst. e. Inf.-Lsg.;parenteral;;11213000;Konzentrat zur Herstellung einer Infusionslösung;Concentrate for solution for infusion;Pharmaceutical Dose Form;
+104;529;;;529;Konz. zur Herst. e. Inj.-/Inf.-Lsg.;parenteral;;50079000;Konzentrat zur Herstellung einer Injektions- /Infusionslösung;Concentrate for solution for injection/infusion;Pharmaceutical Dose Form;
+104;460;;;460;Konz. zur Herst. e. Inj-Lsg.;parenteral;;11209000;Konzentrat zur Herstellung einer Injektionslösung;Concentrate for solution for injection;Pharmaceutical Dose Form;
+104;490;;;490;Konz. zur Herst. e. Inj-Susp.;parenteral;keine Verwendung in ITEM;;;;;
+104;527;;;527;Konz. zur Herst. e. Lösung zum Einnehmen;Zum Einnehmen;;50010000;Konzentrat zur Herstellung einer Lösung zum Einnehmen;Concentrate for oral solution;Pharmaceutical Dose Form;
+104;538;;;538;Konz. zur Herst. e. Lösung zur Anw. in der Mundhöhle;;;13003000;Konzentrat zur Herstellung einer Lösung zur Anwendung in der Mundhöhle;Concentrate for oromucosal solution;Pharmaceutical Dose Form;
+104;364;;;364;Konz. zur Herst. e. Lsg. z. Anw. auf d. Haut;Anwendung auf der Haut;;10514000;Konzentrat zur Herstellung einer Lösung zur Anwendung auf der Haut;Concentrate for cutaneous solution;Pharmaceutical Dose Form;
+104;227;;;227;Konz. zur Herst. e. Reinigungs-/Desinfektionslsg. f. med. Prod./Inventar;;;;;;;
+104;900;;;900;Konz. zur Herst. e. Susp. z. Einnehmen;;;10100500;Konzentrat zur Herstellung einer Suspension zum Einnehmen;Concentrate for oral suspension;Pharmaceutical Dose Form;
+104;448;;;448;Konz. zur Herst. e. Susp. zum Einnehmen;Zum Einnehmen;;10100500;Konzentrat zur Herstellung einer Suspension zum Einnehmen;Concentrate for oral suspension;Pharmaceutical Dose Form;DOPPELT?
+104;265;;;265;Lösung;;;;;;;evtl. als Basic Dose Form: 200000002007 - Solution ? Bei den Praeparaten, wo das verwendet wird, handelt es sich z.T. um Oral solution (z.b. Konakion MM), z.T. um Pflanzenextrakte (Kamillenextrakt), z.T. um Desinfektionsmittel (Cutaneuos solution?). Bei der Amcie-Datenbank des BfArM auch nur als Loesung angegeben. 
+104;362;;;362;Lösung für e. Vernebler;Zur Inhalation;;11101000;Lösung für einen Vernebler;Nebuliser solution;Pharmaceutical Dose Form;
+104;535;;;535;Lösung für Gewebekleber;;;50061500;Lösung für Gewebekleber;Solution for sealant;Pharmaceutical Dose Form;
+104;218;;;218;Lösung zum Einnehmen;Zum Einnehmen;;10105000;Lösung zum Einnehmen;Oral solution;Pharmaceutical Dose Form;
+104;418;;;418;Lösung zum Einnehmen u. z. Anw. auf d. Haut;Anwendung auf der Haut;;;;;;
+104;541;;;541;Lösung zum Einnehmen/Rektallsg.;;;50037900;Lösung zum Einnehmen/Rektallösung;Oral/rectal solution;Pharmaceutical Dose Form;
+104;88;;;88;Lösung zur Anw. am Zahnfleisch;Dentale Anwendung;;10312000;Lösung zur Anwendung am Zahnfleisch;Gingival solution;Pharmaceutical Dose Form;
+104;219;;;219;Lösung zur Anw. auf d. Haut;Anwendung auf der Haut;;10513000;Lösung zur Anwendung auf der Haut;Cutaneous solution;Pharmaceutical Dose Form;
+104;363;;;363;Lösung zur Anw. in d. Mundhöhle;Anwendung in der Mundhöhle;;10305000;Lösung zur Anwendung in der Mundhöhle;Oromucosal solution;Pharmaceutical Dose Form;
+104;443;;;443;Lösung zur Desinf./Reinig. v. med. Prod./Inventar;;;;;;;
+104;407;;;407;Lösung zur endotracheopulm.Instill.;Endotracheopulmonale Anwendung;;11601000;Lösung zur endotracheopulmonalen Instillation;Endotracheopulmonary instillation, solution;Pharmaceutical Dose Form;
+104;998;;;998;Lösung zur gastrointest. Anw.;Gastrointestinale Anwendung;keine Verwendung in ITEM;;;;;
+104;26;;;26;Lösung zur Herst. e. Dampfs z. Inhalation;Zur Inhalation;;11114000;Lösung zur Herstellung eines Dampfs zur Inhalation;Inhalation vapour, solution;Pharmaceutical Dose Form;
+104;572;;;Lösung zur Inhalation;Lösung zur Inhalation;Zur Inhalation;;50081000;Lösung zur Inhalation;Inhalation solution;Pharmaceutical Dose Form;
+104;526;;;526;Lösung zur Inj., Inf. und Inh.;parenteral;;;;;;Diskussion: Verwendung von Lösungsmittel zur Herstellung von Parenteralia? Es geht aber um eine Loesugn, nicht um Loesungsmittel. Betr. nur  5 Eintraege (1 Praeparat)
+104;477;;;477;Lösung zur intraokul. Anw.;Intraokulare Anwendung;;50073500;Lösung zur intraokularen Anwendung;Solution for intraocular irrigation;Pharmaceutical Dose Form;
+104;377;;;377;Lösung zur intravesikalen Anw.;Intravesikale Anwendung;;11502500;Lösung zur intravesikalen Anwendung;Intravesical solution;Pharmaceutical Dose Form;
+104;401;;;400;Lösung zur Modifikation einer Blutfraktion;;;12103000;Lösung zur Modifikation einer Blutfraktion;Solution for blood fraction modification;Pharmaceutical Dose Form;
+104;450;;;450;Lösung zur Nachbenetz. von Kontaktlinsen;;;;;;;
+104;348;;;348;Lösung zur nasalen Anw./Lösung zur Anw. in der Mundhöhle;;;50036500;Lösung zur nasalen Anwendung/Lösung zur Anwendung in der Mundhöhle;Nasal/oromucosal solution;Pharmaceutical Dose Form;
+104;360;;;360;Lösungsm. z. Herst. eines Augenbades;Anwendung am Auge;keine Verwendung in ITEM;10611000;Lösungsmittel zur Herstellung eines Augenbades;Eye lotion, solvent for reconstitution;;
+104;432;;;432;Lösungsmittel;;;13035000;Lösungsmittel zur Herstellung...;Solvent for …;Pharmaceutical Dose Form;evtl. Solvent for�
+104;416;;;416;Lösungsmittel zur Herst. von Parenteralia;parenteral;;11216000;Lösungsmittel zur Herstellung von Parenteralia;Solvent for parenteral use;Pharmaceutical Dose Form;
+104;15;1;;15;Lacktbl.;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;340;;;340;Lanzetten;;;;;;;Medizinprodukt/ Hilfsmittel
+104;36;;;36;Lotion;Anwendung auf der Haut;;10516000;Emulsion zur Anwendung auf der Haut;Cutaneous emulsion;Pharmaceutical Dose Form;
+104;335;1;;335;Lutschpastille;;;10323000;Pastille;Pastille;Pharmaceutical Dose Form;UNKLAR, vorerst so verwenden. Diskussion: evtl. auch Lutschtablette (Lozenge)? Ist Lutschpastille das gleiche wie Pastille (vgl. Spalte b, Nr. 43)?Antwort Lukas Goetz: ie unterscheiden sich eigentlich nur bei der Herstellung, klassischerweise werden Pastillen gegossen und Tabletten gepresst. Bei den Praeparaten wird z.T. Lutschpastille, z.,T. Pastille angegeben
+104;229;1;;229;Lutschtbl.;Anwendung in der Mundhöhle;;10321000;Lutschtablette;Lozenge;Pharmaceutical Dose Form;
+104;147;;;Lutschtbl., gepresst;Lutschtbl., gepresst;Anwendung in der Mundhöhle;;10322000;Lutschtablette, gepresst;Compressed lozenge;Pharmaceutical Dose Form;
+104;539;;;539;Lyophilisat zum Einnehmen;;;10224000;Lyophilisat zum Einnehmen;Oral lyophilisate;Pharmaceutical Dose Form;
+104;521;;;Lyophilisat z. Herst. einer Infusionslösung;Lyophilisat zur Herst. einer Inf.-Lsg.;;;11215000;Lyophilisat zur Herstellung einer Infusionslösung;Lyophilisate for solution for infusion;Pharmaceutical Dose Form;
+104;76;1;;76;Manteltbl., magensaftres.;Zum Einnehmen;;10225000;magensaftresistente Tablette;Gastro-resistant tablet;Pharmaceutical Dose Form;EDQM deprecated: Gastro-resistant coated tablet. Replacement Coded ConceptsPDF-10225000: Gastro-resistant tablet. EDQM rejected: Film coated gastro-resistant tablet, Replacement Coded ConceptsPDF-10225000: Gastro-resistant tablet. Diskussion war auch: Ist das das gleiche wie magensaftresistente Tablette (vgl. Spalte b, Nr.116)? Es gibt bei MMI auch eine Filmtbl., magensaftres.(Spalte b, Nr. 347). 
+104;888;;;888;Matrix für Matrix zur Implantation;;;13018000;Matrix für Matrix zur Implantation;Matrix for implantation matrix;Pharmaceutical Dose Form;
+104;415;1;;415;Mikrotbl., magensaftresistent;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;332;;;332;Nagellack, wirkstoffhaltiger;Anwendung auf der Haut;;10521000;wirkstoffhaltiger Nagellack;Medicated nail lacquer;Pharmaceutical Dose Form;
+104;361;;;361;Nasenöl;Nasale Anwendung;;10806000;Nasentropfen, Emulsion;Nasal drops, solution;Pharmaceutical Dose Form;
+104;398;;;398;Nasencreme;Nasale Anwendung;;10801000;Nasencreme;Nasal cream;Pharmaceutical Dose Form;
+104;309;;;309;Nasengel;Nasale Anwendung;;10802000;Nasengel;Nasal gel;Pharmaceutical Dose Form;
+104;485;;;485;Nasenklammer;;keine Verwendung in ITEM;;;;;
+104;589;;;589;Nasenpulver;Nasale Anwendung;;10807000;Nasenpulver;Nasal powder;Pharmaceutical Dose Form;
+104;231;;;231;Nasensalbe;Nasale Anwendung;;10803000;Nasensalbe;Nasal ointment;Pharmaceutical Dose Form;
+104;342;;;342;Nasenspülung;Nasale Anwendung;;10811000;Nasenspülung;Nasal wash;Pharmaceutical Dose Form;
+104;232;;;232;Nasenspray, Lösung;Nasale Anwendung;;10808000;Nasenspray, Lösung;Nasal spray, solution;Pharmaceutical Dose Form;
+104;132;;;132;Nasenspray, Lösung im Einzeldosisbehältnis;Nasale Anwendung;;50037250;Nasenspray, Lösung im Einzeldosisbehältnis;Nasal spray, solution in single-dose container;Combined Term;
+104;392;;;392;Nasenspray, Suspension;Nasale Anwendung;;10809000;Nasenspray, Suspension;Nasal spray, suspension;Pharmaceutical Dose Form;
+104;40;;;40;Nasentropfen, Lösung;Nasale Anwendung;;10804000;Nasentropfen, Lösung;Nasal drops, solution;Pharmaceutical Dose Form;
+104;406;;;406;Nasentropfen, Lösung im  Einzeldosisbehältnis;Nasale Anwendung;;50036200;Nasentropfen, Lösung im Einzeldosisbehältnis;Nasal drops, solution in single-dose container;Combined Term;
+104;424;;;424;Ohrensalbe;;;10703000;Ohrensalbe;Ear ointment;Pharmaceutical Dose Form;
+104;420;;;Ohrenspray;Ohrenspray;Anwendung am Ohr;;17090;Ohrenspray;Ear spray;Patient Friendly;geht nur mit genauere Angabe?
+104;41;;;41;Ohrentropfen, Lsg.;Anwendung am Ohr;;10704000;Ohrentropfen, Lösung;Ear drops, solution;Pharmaceutical Dose Form;
+104;833;;;833;Ohrentropfen, Lsg. im Einzeldosisbeh.;Anwendung am Ohr;;50017200;Ohrentropfen, Lösung im Einzeldosisbehältnis;Ear drops, solution in single-dose container;Combined Term;
+104;834;;;834;Ohrentropfen, Susp.;Anwendung am Ohr;;10705000;Ohrentropfen, Suspension;Ear drops, suspension;Pharmaceutical Dose Form;
+104;467;;;467;Organkonservierungslösung;;;12112000;Organkonservierungslösung;Solution for organ preservation;Pharmaceutical Dose Form;
+104;327;;;327;Packung;;keine Verwendung in ITEM;;;;;
+104;339;;;339;Pad;;;;;;;
+104;483;;;483;Paste zum Einnehmen;Zum Einnehmen;;10109000;Paste zum Einnehmen;Oral paste;Pharmaceutical Dose Form;
+104;42;;;42;Paste zur Anw. auf der Haut;Anwendung auf der Haut;;10505000;Paste zur Anwendung auf der Haut;Cutaneous paste;Pharmaceutical Dose Form;
+104;419;;;419;Paste zur Anw. in der Mundhöhle;Anwendung in der Mundhöhle;;10314000;Paste zur Anwendung in der Mundhöhle;Oromucosal paste;Pharmaceutical Dose Form;
+104;43;1;;43;Pastille;Anwendung in der Mundhöhle;;10323000;Pastille;Pastille;Pharmaceutical Dose Form;
+104;981;;;PATCH;Patch;;;;;;;evtl. BasicDose Form: Patch
+104;312;;;312;Peeling;Anwendung auf der Haut;;;;;;ist meistens ein Gel
+104;271;;;271;Pellets zur Wundbehandlung;Anwendung auf der Haut;keine Verwendung in ITEM;;;;;
+104;261;;;261;Pen, autom. Injektor;;keine Verwendung in ITEM;;;;;
+104;470;;;470;Peritonealdialyselösung;intraperitoneal;;11401000;Peritonealdialyselösung;Solution for peritoneal dialysis;Pharmaceutical Dose Form;
+104;507;;;507;Pessar;;keine Verwendung in ITEM;;;;;Medizinprodukt/ Hilfsmittel
+104;394;;;394;Pflaster, transdermal;Transdermale Anwendung;;10519000;transdermales Pflaster;Transdermal patch;Pharmaceutical Dose Form;
+104;206;;;206;Pflaster, wirkstoffhaltig;Pflaster zum Aufkleben auf die Haut;;10506000;wirkstoffhaltiges Pflaster;Medicated plaster;Pharmaceutical Dose Form;
+104;252;;;252;Platte zur Herst. e.Kompresse;;;;;;;
+104;523;;;523;Puder;Anwendung auf der Haut;;10517000;Pulver zur Anwendung auf der Haut;Cutaneous powder;Pharmaceutical Dose Form;evtl. Cutaneous Powder
+104;498;;;498;Puderspray;Anwendung auf der Haut;keine Verwendung in ITEM;;;;;
+104;384;;;384;Pulv. + Lsgm. z. Herst. einer Inj.-Lsg.;parenteral;keine Verwendung in ITEM;;;;;
+104;446;;;446;Pulv. + Lsgm. z. Herst. v. Knochenzement;;keine Verwendung in ITEM;;;;;
+104;138;;;138;Pulv. z. Herst. e. Aerosols;Zur Inhalation;keine Verwendung in ITEM;;;;;
+104;471;;;471;Pulv.+ Suspm. z. Blaseninstillation;Anwendung in der Harnröhre;keine Verwendung in ITEM;;;;;
+104;905;;;905;Pulver;;;66;Pulver;Powder;Basic Dose Form;keine deutsche übersetzung angezeigt, eigene übersetzung
+104;77;;;77;Pulver + Lsgmittel. z. Herst. einer Inf.-Lsg.;parenteral;keine Verwendung in ITEM;;;;;
+104;534;;;534;Pulver für e. Gewebekleber;;;13031000;Pulver für einen Gewebekleber;Powder for sealant;Pharmaceutical Dose Form;
+104;145;;;145;Pulver für e. Konz. zur Herst. e. Inf.-Lsg., Pulver zur Herst. e. Lsg. zum Einn.;;keine Verwendung in ITEM;;;;;
+104;667;;;Pulver für ein Konz. zur Herst. e. Inf.-Disp.;Pulver für ein Konz. zur Herst. e. Inf.-Disp.;;;50048750;Pulver für ein Konzentrat zur Herstellung einer Infusionsdispersion;Powder for concentrate for dispersion for infusion;Pharmaceutical Dose Form;
+104;530;;;530;Pulver für ein Konz. zur Herst. e. Inf.-Lsg.;;;50043000;Pulver für ein Konzentrat zur Herstellung einer Infusionslösung;Powder for concentrate for solution for infusion;Pharmaceutical Dose Form;
+104;666;;;666;Pulver für ein Konz. zur Herst.e. Inj.- bzw. Inf.-Lsg.;;;50049250;Pulver für ein Konzentrat zur Herstellung einer Injektions-/Infusionslösung;Powder for concentrate for solution for injection/infusion;Pharmaceutical Dose Form;
+104;897;;;Pulver für Matrix zur Implantation;Pulver für Matrix zur Implantation;;;13027000;Pulver für Matrix zur Implantation;Powder for implantation matrix;Pharmaceutical Dose Form;
+104;410;;;410;Pulver und Lsg. zur Herst. e. Dentalzements;;keine Verwendung in ITEM;;;;;
+104;429;;;429;Pulver und Lsgm. z. Herst. e. Inj.-Susp.;parenteral;keine Verwendung in ITEM;;;;;
+104;409;;;409;Pulver z. Herst. e. Lsg. zur endotracheopulm. Instill.;Endotracheopulmonale Anwendung;;11602000;Pulver zur Herstellung einer Lösung zur endotracheopulmonalen Instillation;Endotracheopulmonary instillation, powder for solution;Pharmaceutical Dose Form;
+104;45;;;45;Pulver zum Einnehmen;Zum Einnehmen;;10201000;Pulver zum Einnehmen;Oral powder;Pharmaceutical Dose Form;
+104;44;;;44;Pulver zur Anw. auf der Haut;Anwendung auf der Haut;;10517000;Pulver zur Anwendung auf der Haut;Cutaneous powder;Pharmaceutical Dose Form;
+104;557;;;Pulv. zur Anw. auf der Haut;Pulver zur Anw. auf der Haut;;keine Verwendung in ITEM;;;;;
+104;513;;;513;Pulver zur Anw. im Mund;Anwendung in der Mundhöhle;;;;;;unklar
+104;399;;;399;Pulver zur Herst. e. Blasenspüllösung;Urethrale Anwendung;keine Verwendung in ITEM;;;;;
+104;396;;;380;Pulver zur Herst. e. Dentalzements;Dentale Anwendung;;10413000;Pulver zur Herstellung eines Dentalzements;Powder for dental cement;Pharmaceutical Dose Form;
+104;288;;;Pulver zur Herst. e. Depot-Injektionssusp.;Pulver zur Herst. e. Depot-Injektionssuspension;;;11208400;Pulver zur Herstellung einer Depot-Injektionssuspension;Powder for prolonged-release suspension for injection;Pharmaceutical Dose Form;
+104;956;;;956;Pulver zur Herst. e. Gels;;;13021000;Pulver zur Herstellung eines Gels;Powder for gel;Pharmaceutical Dose Form;
+104;371;;;371;Pulver zur Herst. e. Gurgellsg.;Anwendung in der Mundhöhle;;10303000;Pulver zur Herstellung einer Gurgellösung;Gargle, powder for solution;Pharmaceutical Dose Form;
+104;28;;;Pulver zur Herst. e. Inf.-Disp.;Pulver zur Herst. e. Inf.-Disp.;;;11211500;Pulver zur Herstellung einer Infusionsdispersion;Powder for dispersion for infusion;Pharmaceutical Dose Form;
+104;23;;;23;Pulver zur Herst. e. Inf.-Lsg.;parenteral;;11212000;Pulver zur Herstellung einer Infusionslösung;Powder for solution for infusion;Pharmaceutical Dose Form;
+104;25;;;25;Pulver zur Herst. e. Inf.-Susp.;;;11211500;Pulver zur Herstellung einer Infusionsdispersion;Powder for dispersion for infusion;;ACHTUNG, KEIN SAUBERES MAPPING. Bei 2 Praeparaten: Abraxane ist zugelassen mit  Pharmaceutical Dose Form: Powder for suspension for infusion - aber das ist non-current (ohne ID)! Pazenir 5 mg/ml Pulver zur Herstellung einer Infusionsdispersion- evtl. dieses nehmen.
+104;111;;;Pulver zur Herst. e. Inj.- bzw. Inf.-Lsg. oder zur;Pulver zur Herst. e. Inj.- bzw. e. Inf.-Lsg. oder e. Lsg. zur intravesikalen Anw.;;;;;;;würde evtl. passen:  100000125750-Pulver zur Herstellung einer Lösung zur intravesikalen Anwendung / Injektionslösung-Powder for intravesical solution/solution for injection
+104;528;;;528;Pulver zur Herst. e. Inj.- bzw. Inf.-Lsg.;parenteral;;50053500;Pulver zur Herstellung einer Injektions-/Infusionslösung;Powder for solution for injection/infusion;Pharmaceutical Dose Form;
+104;352;;;352;Pulver zur Herst. e. Inj.-Dispersion;parenteral;;13023000;Pulver zur Herstellung einer Injektionsdispersion;Powder for dispersion for injection;Pharmaceutical Dose Form;
+104;382;;;382;Pulver zur Herst. e. Inj.-Lsg.;parenteral;;11205000;Pulver zur Herstellung einer Injektionslösung;Powder for solution for injection;Pharmaceutical Dose Form;
+104;568;;;Pulver zur Herst. e. Inj.-Lsg.  u. Pricktestlsg.;Pulver zur Herst. e. Inj.-Lsg.  u. Pricktestlsg.;;;13052000;Pulver zur Herstellung einer Injektionslösung/Pricktestlösung;Powder for solution for injection/skin-prick test;Pharmaceutical Dose Form;
+104;383;;;383;Pulver zur Herst. e. Inj.-Susp.;parenteral;;11206000;Pulver zur Herstellung einer Injektionssuspension;Powder for suspension for injection;Pharmaceutical Dose Form;
+104;423;;;423;Pulver zur Herst. e. Lsg. f. diverse Anw.;;;;;;;
+104;525;;;525;Pulver zur Herst. e. Lsg. für e. Vernebler;Zur Inhalation;;11104000;Pulver zur Herstellung einer Lösung für einen Vernebler;Powder for nebuliser solution;Pharmaceutical Dose Form;
+104;369;;;369;Pulver zur Herst. e. Lsg. zum Einnehmen;Zum Einnehmen;;10110000;Pulver zur Herstellung einer Lösung zum Einnehmen;Powder for oral solution;Pharmaceutical Dose Form;
+104;158;;;PULVERZURHESRTELSGZURINTRAOKULAREN;Pulver zur Herst. e. Lsg. zur intraokularen Installation;;;13029000;Pulver zur Herstellung einer Instillationslösung zur intraokularen Anwendung;Powder for intraocular instillation solution;Pharmaceutical Dose Form;
+104;154;;;Pulver zur Herst. e. Lsg. zur intravesikalen Anw.;Pulver zur Herst. e. Lsg. zur intravesikalen Anw.;;;50050000;Pulver zur Herstellung einer Lösung zur intravesikalen Anwendung;Powder for intravesical solution;Pharmaceutical Dose Form;
+104;996;;;996;Pulver zur Herst. e. Rektalsusp.;;keine Verwendung in ITEM;;;;;
+104;436;;;436;Pulver zur Herst. e. Susp. zum E.;Zum Einnehmen;;10111000;Pulver zur Herstellung einer Suspension zum Einnehmen;Powder for oral suspension;Pharmaceutical Dose Form;Doppelt
+104;524;;;524;Pulver zur Herst. e. Susp. zum Einnehmen;Zum Einnehmen;;10111000;Pulver zur Herstellung einer Suspension zum Einnehmen;Powder for oral suspension;Pharmaceutical Dose Form;Doppelt
+104;830;;;830;Pulver zur Herst. e. Susp. zum Einnehmen/Rektalsusp.;;;50052000;Pulver zur Herstellung einer Suspension zum Einnehmen/Rektalsuspension;Powder for oral/rectal suspension;Pharmaceutical Dose Form;
+104;156;;;Pulver zur Herst. e. Susp. zur intravesikalen Anw.;Pulver zur Herst. e. Susp. zur intravesikalen Anw.;;;50051000;Pulver zur Herstellung einer Suspensionen zur intravesikalen Anwendung;Powder for intravesical suspension;Pharmaceutical Dose Form;
+104;512;;;512;Pulver zur Herst. v. Knochenzement;;;;;;;Diskussion, ob hier Pulver zur Herstellung eines Dentalzements (Powder for dental cement, ID 10413000) verwendet werden kann. So nicht verwenden (Dentalzement(Zahnchirurie?) wohl nicht gleich Knochenzement (k�nstliche Gelenke?)?
+104;437;;;437;Pulver zur Inh., einzeldos.;Zur Inhalation;;11111000;einzeldosiertes Pulver zur Inhalation;Inhalation powder, pre-dispensed;Pharmaceutical Dose Form;
+104;511;;;511;Pulver zur periodont. Anw.;Zur periodontalen Anwendung;keine Verwendung in ITEM;;;;;
+104;612;;;612;Rektalcreme;;;11001000;Rektalcreme;Rectal cream;Pharmaceutical Dose Form;
+104;29;2;;29;Rektalkapsel;Rektale Anwendung;;11014000;Rektalkapsel;Rectal capsule;Pharmaceutical Dose Form;
+104;358;;;358;Rektallösung;Rektale Anwendung;;11005000;Rektallösung;Rectal solution;Pharmaceutical Dose Form;
+104;499;;;499;Rektalsalbe;Rektale Anwendung;;11003000;Rektalsalbe;Rectal ointment;Pharmaceutical Dose Form;
+104;355;;;355;Rektalschaum;Rektale Anwendung;;11004000;Rektalschaum;Rectal foam;Pharmaceutical Dose Form;
+104;354;51;;354;Rektalsusp.;Rektale Anwendung;;11006000;Rektalsuspension;Rectal suspension;Pharmaceutical Dose Form;
+104;235;1;;235;Retarddrg.;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;295;1;;295;Retard-Filmtbl.;Zum Einnehmen;;50055500;;Prolonged-release film-coated tablet;;NULLIFIED, auch keine DE-Bezeichnung. Nur andere Sprachen
+104;447;;;447;Retardgran. im Btl.;Zum Einnehmen;;50056200;Retardgranulat im Beutel;Prolonged-release granules in sachet;Combined Term;
+104;55;2;;55;Retardkaps.;Zum Einnehmen;;12150;Retardkapsel;Prolonged-release capsule;Patient Friendly;
+104;532;;;532;Retardmikrokaps.;Zum Einnehmen;;;;;;
+104;468;;;468;Retardmikrokaps.+ Suspm. z. Herst. e. Inj.-Susp.;;keine Verwendung in ITEM;;;;;
+104;54;1;;54;Retardtbl.;Zum Einnehmen;;10226000;Retardtablette;Prolonged-release tablet;Pharmaceutical Dose Form;
+104;456;;;456;Retardtbl., magensaftresistent;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;221;;;221;Saft;Zum Einnehmen;;10117000;Sirup;Syrup;Pharmaceutical Dose Form;UNKLAR, aber so verwenden. Saft = Sirup? Lukas Goetz: streng genommen hat der Sirup noch Geschmack
+104;47;;;47;Salbe;Anwendung auf der Haut;;10504000;Salbe;Ointment;Pharmaceutical Dose Form;
+104;405;;;405;Salbe zur Anw. in der Mundhöhle;Anwendung in der Mundhöhle;;10314005;"
+Salbe zur Anwendung in der Mundhöhle";Oromucosal ointment;Pharmaceutical Dose Form;
+104;522;;;522;Salz;;;10201000;Pulver zum Einnehmen;Oral powder;Pharmaceutical Dose Form;21.1.2021: hier nur 1 Praeparat Caelo Bittersalz, hierfuer passt: Oral powder (Amice-DB: Pulver)
+104;291;;;291;Schaum zur Anw. auf der Haut;Anwendung auf der Haut;;10507000;Schaum zur Anwendung auf der Haut;Cutaneous foam;Pharmaceutical Dose Form;
+104;517;1;;517;Schmelzfilm;Zum Einnehmen;;10236100;Schmelzfilm;Orodispersible film;Pharmaceutical Dose Form;
+104;320;;;320;Schmelzfilm zur subling. Anw.;;keine Verwendung in ITEM;;;;;
+104;294;1;;294;Schmelztbl.;Zum Einnehmen;;10223000;Schmelztablette;Orodispersible tablet;Pharmaceutical Dose Form;
+104;236;;;236;Schwamm;;;11301000;Implantat;Implant;Pharmaceutical Dose Form;Mapping hier nur speziell fuer die Praeparate, bei denen bei MMI Schwamm als Darreichungsform angegeben ist. Sonst bedeutet Schwamm wohl nicht gleich Implantat! Auch: Medicated sponge?
+104;237;;;237;Seife;Anwendung auf der Haut;;;;;;nicht gefunden
+104;331;;;331;Set;;;;;;;
+104;238;;;238;Shampoo;Anwendung auf der Haut;;10508000;"
+Shampoo";Shampoo;Pharmaceutical Dose Form;
+104;49;;;49;Sirup;Zum Einnehmen;;10117000;Sirup;Syrup;Pharmaceutical Dose Form;
+104;400;1;;400;SL-Drg.;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;395;2;;395;SL-Hartkapsel, retardiert;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;374;;;374;Spüllsg.;;;12113000;Spüllösung;Irrigation solution;Pharmaceutical Dose Form;
+104;50;;;50;Spray;;keine Verwendung in ITEM;;;;;
+104;465;;;Spray transdermales Lösung;Spray transdermales, Lösung;;;10546500;transdermales Spray, Lösung;Transdermal spray, solution;Pharmaceutical Dose Form;
+104;387;;;387;Spray zur Anw. auf d. Haut, Lösung;Anwendung auf der Haut;;10509000;Spray zur Anwendung auf der Haut, Lösung;Cutaneous spray, solution;Pharmaceutical Dose Form;
+104;268;;;Spray zur Anw. auf der Haut, Salbe;Spray zur Anw. auf der Haut, Salbe;;;50016000;Spray zur Anwendung auf der Haut, Salbe;Cutaneous spray, ointment;Pharmaceutical Dose Form;
+104;376;;;376;Spray zur Anw. in d. Mundhöhle, Lösung;Anwendung in der Mundhöhle;;10308200;Spray zur Anwendung in der Mundhöhle, Lösung;Oromucosal spray, solution;Pharmaceutical Dose Form;
+104;250;;;250;St.;;;;;;;
+104;500;;;500;Stäbchen zur Anw. in der Harnröhre;Anwendung in der Harnröhre;;11505000;Stäbchen zur Anwendung in der Harnröhre;Urethral stick;Pharmaceutical Dose Form;
+104;239;;;239;Stift zur Anw. auf der Haut;Anwendung auf der Haut;;10523000;Stift zur Anwendung auf der Haut;Cutaneous stick;Pharmaceutical Dose Form;
+104;388;;;388;Sublingualspray, Lösung;Sublingual;;10309200;Sublingualspray, Lösung;Sublingual spray, solution;Pharmaceutical Dose Form;
+104;274;1;;274;Sublingualtbl.;Sublinguale Anwendung;;10318000;Sublingualtablette;Sublingual tablet;Pharmaceutical Dose Form;
+104;402;;;402;Sublingual-Tropfen zum Einnehmen;Sublinguale Anwendung;;10307000;Tropfen zur Anwendung in der Mundhöhle;Oromucosal drops;Pharmaceutical Dose Form;21.01.2021: Hier: Anwendung  gegen Allergien, geaendert zu Oromucosal drops
+104;458;;;458;Susp. für e. Vernebler;Zur Inhalation;;11102000;Suspension für einen Vernebler;Nebuliser suspension;Pharmaceutical Dose Form;
+104;980;;;980;Susp. und Lsgm. z. Herst. e. Injektionssusp.;;keine Verwendung in ITEM;;;;;
+104;240;;;240;Susp. zum Einnehmen;Zum Einnehmen;;10106000;Suspension zum Einnehmen;Oral suspension;Pharmaceutical Dose Form;
+104;990;;;990;Susp. zum Einnehmen/Rektalsusp.;;;50038000;Suspension zum Einnehmen/Rektalsuspension;Oral/rectal suspension;Pharmaceutical Dose Form;
+104;353;;;353;Susp. zur Anw. auf der Haut;Anwendung auf der Haut;;10515000;Suspension zur Anwendung auf der Haut;Cutaneous suspension;Pharmaceutical Dose Form;
+104;372;;;372;Susp. zur Anw. in der Mundhöhle;Anwendung in der Mundhöhle;;10306000;Suspension zur Anwendung in der Mundhöhle;Oromucosal suspension;Pharmaceutical Dose Form;
+104;481;;;481;Susp. zur endotracheopulm. Instill.;Endotracheopulmonale Anwendung;keine Verwendung in ITEM;;;;;
+104;800;;;800;Susp. zur Implant.;;keine Verwendung in ITEM;;;;;
+104;779;;;SUSPENSIONSM;Suspensionsm.;;;;;;;Suspensionsm.= Suspensionsmittel
+104;492;;;492;Täfelchen;Zum Einnehmen;;;;;;
+104;349;;;349;Tamponade;;;;;;;Medizinprodukt
+104;1;;;1;Tbl.;Zum Einnehmen;;10219000;Tablette;Tablet;Pharmaceutical Dose Form;
+104;455;1;;455;Tbl. + Klysma zur Herst. e. Rektalsusp.;Rektale Anwendung;keine Verwendung in ITEM;;;;;
+104;514;1;;514;Tbl. mit veränd. Wirkstofffreisetz.;Zum Einnehmen;;10227000;Tablette mit veränderter Wirkstofffreisetzung;Modified-release tablet;Pharmaceutical Dose Form;
+104;466;1;;466;Tbl. z. Zerfallenlassen;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;877;;;877;Tbl. zur Herst. einer Lsg. zum  Einnehmen;;;10120000;Tablette zur Herstellung einer Lösung zum Einnehmen;Soluble tablet;Pharmaceutical Dose Form;
+104;425;1;;425;Tbl. zur Herst. einer Lsg. zur Anw. auf der Haut;Anwendung auf der Haut;keine Verwendung in ITEM;;;;;
+104;488;;;Tbl. zur Herst. einer Rektalsusp.;Tbl. zur Herst. einer Rektalsusp.;Rektale Anwendung;;11011000;Tablette zur Herstellung einer Rektallösung;Tablet for rectal solution;Pharmaceutical Dose Form;
+104;478;1;;478;Tbl. zur Herst. einer Susp. zum Einnehmen;Zum Einnehmen;;10121000;Tablette zur Herstellung einer Suspension zum Einnehmen;Dispersible tablet;Pharmaceutical Dose Form;Pharmaceutical Dose Form, non-current: 50066000- Tablet for oral suspension keine deutsche Angabe
+104;408;1;;408;Tbl., überzog.;Zum Einnehmen;;10220000;überzogene Tablette;Coated tablet;Pharmaceutical Dose Form;
+104;116;1;;116;Tbl., magensaftres.;Zum Einnehmen;;10225000;magensaftresistente Tablette;Gastro-resistant tablet;Pharmaceutical Dose Form;
+104;457;;;457;Teeaufgussgran.;Zum Einnehmen;;;;;;Diskussion, ob hier Teeaufgusspulver (Instant herbal tea, ID 10202000) verwendet werden kann. Eher nicht.
+104;368;;;368;Teeaufgusspulver;Zum Einnehmen;;10202000;Teeaufgusspulver;Instant herbal tea;Pharmaceutical Dose Form;
+104;367;;;367;Teebeutel;Zum Einnehmen;;50029700;Arzneitee in Beutel;Herbal tea in bag;Combined Term;
+104;242;;;242;Test;;;;;;;
+104;243;;;243;Tinkt.;;;;;;;
+104;244;;;244;Tonikum;Zum Einnehmen;;;;;;
+104;245;;;245;Tr.-Saft;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;205;;;205;Trinkamp.;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;496;;;496;Trinkfläschchen;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;256;1;;256;Trinktbl.-Tabs;Zum Einnehmen;;10222000;Brausetablette;Effervescent tablet;Pharmaceutical Dose Form;nicht ganz klar, ob es dasselbe ist wie MMI Code 8: Brausetbl.  Lukas Goetz: ,unterscheiden sich aber wahrscheinlich bei der Herstellungsweise.-- Kein Beispiel-Praeparate gefunden, bei dem diese Dosage Form fehlt. 21.1.2021: moeglicherweise auch Soluble tablets
+104;247;;;247;Trit.;Zum Einnehmen;;;;;;vermutlich Tri.=Trituration?
+104;59;;;59;Tropfen zum Einnehmen, Lsg.;Zum Einnehmen;;10101000;Tropfen zum Einnehmen, Lösung;Oral drops, solution;Pharmaceutical Dose Form;
+104;60;;;60;Tropfen zum Einnehmen, Susp.;Zum Einnehmen;;10102000;Tropfen zum Einnehmen, Suspension;Oral drops, suspension;Pharmaceutical Dose Form;
+104;389;;;389;Tropfen zur Anw. in der Mundhöhle;Anwendung in der Mundhöhle;;10307000;Tropfen zur Anwendung in der Mundhöhle;Oromucosal drops;Pharmaceutical Dose Form;
+104;273;;;273;Tube;;;30067000;Tube;Tube;Packaging;
+104;533;;;533;Tuch, imprägniert;;;;;;;
+104;289;;;289;Tupfer;;;;;;;
+104;255;;;255;Vaginalcreme;Vaginale Anwendung;;10901000;Vaginalcreme;Vaginal cream;Pharmaceutical Dose Form;
+104;417;;;417;vaginales Wirkstofffreisetzungssystem;Vaginale Anwendung;;10915000;vaginales Wirkstofffreisetzungssystem;Vaginal delivery system;Pharmaceutical Dose Form;
+104;61;;;61;Vaginalgel;Vaginale Anwendung;;10902000;Vaginalgel;Vaginal gel;Pharmaceutical Dose Form;
+104;491;;;491;Vaginalinsert;Vaginale Anwendung;;10915000;vaginales Wirkstofffreisetzungssystem;Vaginal delivery system;Pharmaceutical Dose Form;hier (nach Absprache mit Lukas Goetz) gleichen EDQM-Ausdruck verwenden wie bei MMI Code 491: vaginales Wirkstofffreisetzungssystem 
+104;62;2;;62;Vaginalkapsel;Vaginale Anwendung;;19100;Vaginalkapsel;Vaginal capsule;Patient Friendly;
+104;378;;;378;Vaginallösung;Vaginale Anwendung;;10905000;Vaginallösung;Vaginal solution;Pharmaceutical Dose Form;
+104;65;1;;65;Vaginaltbl.;Vaginale Anwendung;;10912000;Vaginaltablette;Vaginal tablet;Pharmaceutical Dose Form;
+104;64;51;;64;Vaginalzäpfchen;Vaginale Anwendung;;10909000;Vaginalzäpfchen;Pessary;Pharmaceutical Dose Form;
+104;393;;;393;Verband, imprägniert;Anwendung auf der Haut;;10525000;imprägnierter Verband;Impregnated dressing;Pharmaceutical Dose Form;
+104;556;;;Versiegelungsmatrix;Versiegelungsmatrix;;;12115100;Versiegelungsmatrix;Sealant matrix;Pharmaceutical Dose Form;
+104;508;;;508;Vlies;;;;;;;
+104;275;;;275;Würfel;Zum Einnehmen;;;;;;
+104;315;;;315;Waschlotion;Anwendung auf der Haut;;;;;;
+104;454;;;454;Watte;;;;;;;
+104;204;;;204;Weichkapsel;Zum Einnehmen;;10211000;Weichkapsel;Capsule, soft;Pharmaceutical Dose Form;
+104;540;;;540;Weichkapsel zum Zerbeißen;Zum Einnehmen;;10214000;Weichkapsel zum Zerbei�en;Chewable capsule, soft;Pharmaceutical Dose Form;
+104;551;;;Weichkapsel zur vaginalen Anwendung;Weichkapsel zur vaginalen Anwendung;;;10911000;Weichkapsel zur vaginalen Anwendung;Vaginal capsule, soft;Pharmaceutical Dose Form;
+104;482;204;;482;Weichkapsel, magensaftres.;Zum Einnehmen;;10213000;magensaftresistente Weichkapsel;Gastro-resistant capsule, soft;Pharmaceutical Dose Form;
+104;469;;;469;Wundabdeckung, Verband o. Wirkstoff;zum Auftragen auf die Wunde;;;;;;Medizinprodukt
+104;555;;;Wundstäbchen;Wundstäbchen;;;12104000;Wundstäbchen;Wound stick;Pharmaceutical Dose Form;
+104;51;;;51;Zäpfchen;Rektale Anwendung;;11013000;Zäpfchen;Suppository;Pharmaceutical Dose Form;
+104;279;;;279;Zahnpaste;Dentale Anwendung;;10409000;Zahnpaste;Toothpaste;Pharmaceutical Dose Form;
+104;66;204;;66;Zerbeißkaps.;Zum Einnehmen;keine Verwendung in ITEM;;;;;
+104;248;;;248;Zylinderamp.;parenteral;;30001000;Ampulle;Ampoule;Packaging;
